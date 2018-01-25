@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+
 Hi everyone
 
 This is MAYANK. I am a b.tech student pursuing the stream of INFORMATION TECHNOLOGY.
